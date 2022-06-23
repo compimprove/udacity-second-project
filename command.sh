@@ -1,0 +1,1 @@
+az webapp up -g dinhnt -n udacity-second-project
