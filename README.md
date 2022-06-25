@@ -17,7 +17,10 @@ https://docs.google.com/spreadsheets/d/1RXGPpRsCIVKpKzjdlAmtzqkob6O6YIhufm-Th8Id
 
 ![Architectural Diagram](image/Azure%20CI_CD.jpg)
 
-### Fork this project to your personal github account
+### Fork this project to your personal github account and setup Github Actions
+
+![Github Actions](image/github%20actions.png)
+
 ### Clone it to Azure Cloud Shell
 Open your Azure Cloud Shell and clone this project
 ![Clone project](image/clone%20udacity%20second.png)
@@ -67,6 +70,4 @@ In the future, this project can extend to use docker container in Azure Containe
 
 ## Demo 
 
-https://youtu.be/kAb7Nr3Oduw
-
-
+https://youtu.be/SLC1hH4k1xo
