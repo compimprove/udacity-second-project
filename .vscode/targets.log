@@ -5,9 +5,9 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
-
  
-# Make data base, printed on Sat Jun 25 21:30:24 2022
+
+# Make data base, printed on Sun Jun 26 06:46:51 2022
 
 # Variables
 
@@ -60,7 +60,7 @@ NVM_BIN = /home/dinhnt/.nvm/versions/node/v12.22.11/bin
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-8a37ec02-193c-4d27-bc5c-b138e47621b5.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-18933bf9-c2e9-493e-b965-da4fcd0c631f.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -74,7 +74,7 @@ PWD = /home/dinhnt/source/udacity-second-project
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/2304_interop
+WSL_INTEROP = /run/WSL/12_interop
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -84,7 +84,7 @@ LESSCLOSE = /usr/bin/lesspipe %s %s
 # environment
 LOGNAME = dinhnt
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 NVM_CD_FLAGS = 
 # environment
@@ -155,8 +155,10 @@ TERM = xterm-256color
 VSCODE_EXTHOST_WILL_SEND_SOCKET = true
 # environment
 WSL_DISTRO_NAME = Ubuntu-20.04
+# environment
+MOTD_SHOWN = update-motd
 # variable set hash-table stats:
-# Load=72/1024=7%, Rehash=0, Collisions=4/100=4%
+# Load=73/1024=7%, Rehash=0, Collisions=4/101=4%
 
 # Pattern-specific Variable Values
 
@@ -267,6 +269,6 @@ install:
 # strcache performance: lookups = 46 / hit rate = 30%
 # hash-table stats:
 # Load=32/8192=0%, Rehash=0, Collisions=1/46=2%
-# Finished Make data base on Sat Jun 25 21:30:24 2022
+# Finished Make data base on Sun Jun 26 06:46:51 2022
 
  

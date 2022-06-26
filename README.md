@@ -64,6 +64,12 @@ Navigate to the home page of the application, you'll see this
 Running `az webapp log tail`, you'll see the stream log of the application
 ![Testing](image/log%20tail.png)
 
+### Run load test with locust
+
+Running `locust` and open locust page in your local machine, you'll see the load test of your application
+
+![Locust test](image/locust_test.png)
+
 ## Enhancements
 
 In the future, this project can extend to use docker container in Azure Container Instances, adding the UI for easy of use, or adding test to the pipeline to make sure the application working properly.
