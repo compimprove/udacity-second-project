@@ -66,7 +66,11 @@ Running `az webapp log tail`, you'll see the stream log of the application
 
 ### Run load test with locust
 
-Running `locust` and open locust page in your local machine, you'll see the load test of your application
+First, install locust `pip3 install locust`
+
+Next changing your app name in locust [config file](locust.conf)
+
+Then running `locust` in the root project and open locust page in your local machine, you'll see the load test of your application
 
 ![Locust test](image/locust_test.png)
 
